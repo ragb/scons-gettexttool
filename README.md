@@ -7,7 +7,7 @@ and pot files for merging.
 ## Requirements
 
 
-You need a [Gettext](https://www.gnu.org/software/gettext/). Most unix-like (Linux/OSX) come with this or have them in repositories. For windows you can check [here](http://gnuwin32.sourceforge.net/packages/gettext.htm) or better use **cygwin** to be happy.
+You need [Gettext](https://www.gnu.org/software/gettext/). Most unix-like (Linux/OSX) come with this or have them in repositories. For windows you can check [here](http://gnuwin32.sourceforge.net/packages/gettext.htm) or better use **cygwin** to be happy.
 
 ## Installation
 
